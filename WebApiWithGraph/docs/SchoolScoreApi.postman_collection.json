@@ -1,0 +1,55 @@
+{
+	"variables": [],
+	"info": {
+		"name": "SchoolScoreApi",
+		"_postman_id": "18855ccc-6e0e-9640-27ff-18cc3dd75e4d",
+		"description": "Core aplication api for manage School socore and control teams and her's groups, chats and more",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "users",
+			"request": {
+				"url": "https://localhost:44385/directory/users/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "Lista de usuarios"
+			},
+			"response": []
+		},
+		{
+			"name": "user Details",
+			"request": {
+				"url": "https://localhost:44385/directory/users/1161586b-1e64-4a79-95f9-22499419c567",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "obtiene detalles de usuario por id"
+			},
+			"response": []
+		},
+		{
+			"name": "Groups",
+			"request": {
+				"url": "https://localhost:44385/directory/groups/",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "lista pagina de grupos"
+			},
+			"response": []
+		},
+		{
+			"name": "Group Details",
+			"request": {
+				"url": "https://localhost:44385/directory/groups/46c26660-198e-4673-9048-a57151620088",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": "Obtiene detalles de grupo por id"
+			},
+			"response": []
+		}
+	]
+}

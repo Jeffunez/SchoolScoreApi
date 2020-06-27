@@ -1,0 +1,32 @@
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.deps.json
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.runtimeconfig.json
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.runtimeconfig.dev.json
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.dll
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.pdb
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.csprojAssemblyReference.cache
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.csproj.CoreCompileInputs.cache
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorAssemblyInfo.cache
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorAssemblyInfo.cs
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.AssemblyInfoInputs.cache
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.AssemblyInfo.cs
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorTargetAssemblyInfo.cache
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.dll
+E:\practise projects\.NET CORE\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.pdb
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.deps.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.runtimeconfig.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.runtimeconfig.dev.json
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.dll
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\bin\Debug\netcoreapp2.1\WebApiWithGraph.pdb
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.AssemblyInfoInputs.cache
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.AssemblyInfo.cs
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.csproj.CoreCompileInputs.cache
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorAssemblyInfo.cache
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorAssemblyInfo.cs
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.RazorTargetAssemblyInfo.cache
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.dll
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.pdb
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.genruntimeconfig.cache
+C:\Azure-Samples\WebApiWithGraph\WebApiWithGraph\obj\Debug\netcoreapp2.1\WebApiWithGraph.csprojAssemblyReference.cache
